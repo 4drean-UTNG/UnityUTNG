@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="[![gaminglanguage-268079.jpg](https://i.postimg.cc/Mph7d6yg/gaminglanguage-268079.jpg)](https://postimg.cc/sM4G2RHJ)" alt="Logo" width=1200 height=300>
+    [![gaminglanguage-268079.jpg](https://i.postimg.cc/Mph7d6yg/gaminglanguage-268079.jpg)](https://postimg.cc/sM4G2RHJ)
 
   <p align="center">
     Short description
