@@ -1,8 +1,5 @@
 # Creación de Video Juego
-<p align="center">
-    [![gaminglanguage-268079.jpg](https://i.postimg.cc/Mph7d6yg/gaminglanguage-268079.jpg)](https://postimg.cc/sM4G2RHJ)
-
-  <p align="center">
+[![gaminglanguage-268079.jpg](https://i.postimg.cc/Mph7d6yg/gaminglanguage-268079.jpg)](https://postimg.cc/sM4G2RHJ)
     Short description
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
