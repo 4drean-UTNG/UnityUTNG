@@ -43,8 +43,9 @@
   * > Prueba
 * Lección 3
   * > [Tutorial](https://github.com/4drean-UTNG/UnityUTNG/blob/main/Leccion3.unitypackage)
-  * > Laboratorio
-  * > Desafío
+  * > [Laboratorio]()
+  * > [Video Desafío]()
+  * > [Video Desafío](https://drive.google.com/file/d/1LQRRUR6Yykgu5wuV05ZIKvgYMEmCbJTn/view?usp=sharing)
   * > Prueba
   [![Cuestionario3.png](https://i.postimg.cc/FRcDjP75/Cuestionario3.png)](https://postimg.cc/0MkYv0Yc)
 * Lección 4
