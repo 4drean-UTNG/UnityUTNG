@@ -53,6 +53,7 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
+  [![Cuestionario4.png](https://i.postimg.cc/brYBzv8r/Cuestionario4.png)](https://postimg.cc/vgjzhb4w)
 * Lección 5
   * > Tutorial
   * > Laboratorio
