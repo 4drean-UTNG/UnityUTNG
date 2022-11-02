@@ -59,6 +59,7 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
+  * [![Cuestionario5.png](https://i.postimg.cc/HnN9LsVb/Cuestionario5.png)](https://postimg.cc/bSQtCP0v)
 * VideoJuego
 
 ## Planificación
