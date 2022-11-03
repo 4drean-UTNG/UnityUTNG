@@ -20,12 +20,20 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
+- Nombre del proyecto:HIPICA RUN
+- Objetivo: Videojuego de carreras de caballos ganandole al oponente
+- Plataforma:   PC
+- Género:   Aventura
+- Personajes: Caballo Troya, Caballo player
+- Escenario: El viejo oeste 
+- Historia:En el viejo oeste se llevan a cabo carreras de caballos que además de ser por el honor, se ganan un barril de cerveza bien fría. El caballo Troya es un caballo muy exitoso en las carreras de caballos y ha hecho ganar muchas veces a los que apuestan por él, pero un nuevo caballo ha llegado a competir por el trono de las carreras por lo que Troya esta dispuesto a competir con el para mostrar quien es el mejor por lo que en el juego tu tienes la oportunidad de poder ayudar al nuevo caballo a ganarle a troya, este juego está dividido en 3 diferentes niveles donde tu debes de comprobar que eres el mejor y lo puedes derrotar en los 3 niveles existentes 
+- Reglas de Juego: El player gana el nivel cuando cruza la meta primero que el caballo troya
+o	Puede elegir los 3 tipos de dificultad que están disponibles en el juego
+o	Se guarda el record de puntuación 
+o	Habrá monedas en la pista y entre más monedas, podrá aumentar más la puntuación
+o	Podrás recoger potenciadores que te darán el turbo durante 3 segundos.
+o	Durante la carrera habrá obstáculos y si llegas a chocar con algún obstáculo el juego terminará y perderás.
+
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
 
