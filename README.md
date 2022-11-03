@@ -69,7 +69,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Villanueva Hernandez Adrian Eduardo
+Villanueva Hernandez Adrian Eduardo && 
 Salas Rayas Diego Manuel
 
 ## Copyright
