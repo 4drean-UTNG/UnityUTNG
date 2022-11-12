@@ -80,8 +80,7 @@ o	Tendrá 2 niveles, serán en el viejo oeste, por defecto se iniciara con el pr
 
 ## Planificación
 
-|PLANEACION|
-|:----|
+
 |Descripción|Fecha:|
 |:----|:----|
 |Crear escenario con los jugadores, obstáculos, pista, fondo y final de la carrera.|14 de noviembre del 2022|
