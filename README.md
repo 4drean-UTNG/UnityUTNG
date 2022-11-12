@@ -81,8 +81,9 @@ o	Tendrá 2 niveles, serán en el viejo oeste, por defecto se iniciara con el pr
 ## Planificación
 
 |PLANEACION|
-|----:|
+|:----|
 |Descripción|Fecha:|
+|:----|:----|
 |Crear escenario con los jugadores, obstáculos, pista, fondo y final de la carrera.|14 de noviembre del 2022|
 |Primera Ronda de Jugabilidad: los caballos deberán de empezar a avanzar y poder brincar los obstáculos, también se moverá la pista junto el fondo.|16 de noviembre del 2022|
 |Segunda Ronda Jugabilidad: Se agregarán configuraciones para que al chocar o que el otro caballo llegue a la meta primero que el jugador se traiga un mensaje de Game Over|18 de noviembre del 2022|
