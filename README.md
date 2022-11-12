@@ -71,9 +71,9 @@ o	Tendrá 2 niveles, serán en el viejo oeste, por defecto se iniciara con el pr
   * > Prueba
   [![Cuestionario4.png](https://i.postimg.cc/brYBzv8r/Cuestionario4.png)](https://postimg.cc/vgjzhb4w)
 * Lección 5
-  * > [Tutorial](https://github.com/4drean-UTNG/UnityUTNG/blob/main/Leccion5.unitypackage)
+  * > [Tutorial](https://github.com/4drean-UTNG/UnityUTNG/blob/main/Leccion_ 5.unitypackage)
   * > [Laboratorio](https://github.com/4drean-UTNG/UnityUTNG/blob/main/lab._5.unitypackage)
-  * > [Desafío](https://github.com/4drean-UTNG/UnityUTNG/blob/main/Challenge_5.unitypackage)
+  * > [Desafío](https://github.com/4drean-UTNG/UnityUTNG/blob/main/challenge5.unitypackage)
    * > [Video Desafío](https://drive.google.com/file/d/1j5bXGVC39STVDfyufE2dB095mVBaQTE0/view?usp=sharing)
   * > Prueba
   * [![Cuestionario5.png](https://i.postimg.cc/HnN9LsVb/Cuestionario5.png)](https://postimg.cc/bSQtCP0v)
