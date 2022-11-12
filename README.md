@@ -38,6 +38,7 @@ o	Podrás recoger potenciadores que te darán el turbo durante 3 segundos.
 o	Durante la carrera habrá obstáculos y si llegas a chocar con algún obstáculo el juego terminará y perderás.
 o	Tendrá 2 niveles, serán en el viejo oeste, por defecto se iniciara con el primer nivel, al ganar el primer nivel al caballo de troya se podrá iniciar el segundo nivel donde se enfrentara el player al caballo de troya mejorado para poder coronarse campeón.
 
+-Puntuación Inicial: se iniciará con una puntuación(recompensa) 0 y e ira acumulado según el ora que vaya agarrando y se le dará esta recompensa si logra ganar la carrera. 
 
 - Pantalla de Juego
 [![db217146-1417-4ca4-a046-f903055505b0.jpg](https://i.postimg.cc/KzJqyZf4/db217146-1417-4ca4-a046-f903055505b0.jpg)](https://postimg.cc/340CXQPH)
